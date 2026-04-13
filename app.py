@@ -1,5 +1,3 @@
-#! /usr/bin/python
-
 import streamlit as st
 
 st.set_page_config(page_title="Mon App Incroyable", page_icon="🚀")
